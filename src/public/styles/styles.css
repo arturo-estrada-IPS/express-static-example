@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+  background-color: #efefef;
+}
+
+.container {
+  width: 960px;
+  height: auto;
+  margin: 1rem auto;
+  border: 1px solid;
+  background-color: #fff;
+}
+
+.nav {
+  width: 100%;
+  margin: 0;
+  background-color: #0f0f0f;
+}
+
+.nav .logo {
+  height: 60px;
+  padding: 5px;
+  margin: 4px 0 0;
+}
